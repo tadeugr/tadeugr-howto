@@ -1,2 +1,4 @@
 # tadeugr-howto
-General how to...
+
+General how to:
+https://github.com/tadeugr/tadeugr-howto/wiki
